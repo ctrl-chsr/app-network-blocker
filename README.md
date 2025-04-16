@@ -1,6 +1,7 @@
-# Internet Application Blocker
+# Application Network Blocker
 
 A Python script to block/unblock specific applications from accessing the internet using Windows Firewall rules.
+For the original context, I need a workaround to block the network connection for my Steam game, because it requires an internet connection to launch the game.
 
 ## Features
 
